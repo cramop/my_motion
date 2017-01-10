@@ -1,3 +1,5 @@
+camop : unveil motion to access the camera's flow.
+
 Motion
 =============
 
